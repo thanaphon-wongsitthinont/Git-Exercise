@@ -26,6 +26,11 @@ c) Update this README.md file:
 
 Name: Thanaphon Wongsitthinont
 Email: famemino@gmail.com 
+👤 2. Student Information
+
+Name: Chaiyasit Thirayansit
+Email: 6730111821@student.chula.ac.th
+
 
 🖼️ 2. Picture
 
