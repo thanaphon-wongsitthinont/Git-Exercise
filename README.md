@@ -24,16 +24,16 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name: Thanaphon Wongsitthinont
+Email: famemino@gmail.com 
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+![Quote](Picture/Quote.png)
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+![GitGif](Animation/GitGif.gif)
 
 💬 4. Quote
 
