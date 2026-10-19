@@ -27,6 +27,28 @@ c) Update this README.md file:
 Name: Thanaphon Wongsitthinont
 Email: famemino@gmail.com 
 
+
+🖼️ 2. Picture
+
+![Quote](Picture/Quote.jpg)
+
+🎞️ 3. Animation
+
+![GitGif](Animation/GITGIF.gif)
+
+💬 4. Quote
+
+Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked.
+
+🎬 5. Video Lecture
+
+https://youtu.be/alfmHTYsEU4
+👤 2. Student Information
+
+Name: Chaiyasit Thirayansit
+Email: 6730111821@student.chula.ac.th
+
+
 🖼️ 2. Picture
 
 ![Quote](Picture/Quote.jpg)
