@@ -29,7 +29,7 @@ Email: famemino@gmail.com
 
 🖼️ 2. Picture
 
-![Quote](Picture/Quote.png)
+![Quote](Picture/Quote.jpg)
 
 🎞️ 3. Animation
 
