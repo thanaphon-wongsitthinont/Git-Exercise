@@ -33,7 +33,7 @@ Email: famemino@gmail.com
 
 🎞️ 3. Animation
 
-![GitGif](Animation/GitGif.gif)
+![GitGif](Animation/GITGIF.gif)
 
 💬 4. Quote
 
